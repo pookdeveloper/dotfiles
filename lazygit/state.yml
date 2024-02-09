@@ -1,7 +1,9 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/ddgs/.config
 - /home/ddgs/.config/nvim
+- /home/ddgs/fe-condor
+- /home/ddgs/dev/work/fe-condor
+- /home/ddgs/.config
 startuppopupversion: 5
 customcommandshistory:
 - q
